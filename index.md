@@ -14,6 +14,9 @@ I generally witter on in some level of geek speak
 
 ## It's getting hot in here
 
+# You can't manage what you can't measure
+
+## British ISPs
 
 ## Kit List
 
