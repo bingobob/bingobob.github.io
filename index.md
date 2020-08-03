@@ -8,15 +8,11 @@ I generally witter on in some level of geek speak
 
 # It's not about the wifi !
 
+# It's all about the wifi !
 
-
-
-
-contention
-
+# Contention
 
 # It's getting hot in here
-
 
 
 ISP...
@@ -35,60 +31,62 @@ top ten ways to improve your wife (sorry wifi)..
 2. etc
 3. really
 
+
+
 nah, this article is different.
 
-Channel Swim
-
-Power.
-
-Raspberry What
-
-Rolls royce solution
-
-Affiliate links
 
 
+# Channel Swim
 
-Turn it off and on again
+# Power
 
-You're not in control of everything, spiders web,
+# Raspberry What
 
-Foundations
+# Rolls royce solution
 
-The simple things.... (try these first). Common sense not that common.
-
-
-Why are extenders bad?
+# Affiliate links
 
 
 
+# Just turn it off and on again already
+
+# You're not in control of everything, spiders web,
+
+# Foundations
+
+# The simple things.... (try these first). Common sense not that common.
 
 
-
-Am I wrong?
-
-
-Quick fixes
+# Why are extenders bad?
 
 
 
 
 
 
-
-know your enemy (you can't manage what you can't measure).
-
+# Am I wrong?
 
 
-wifi needs wires
+# Quick fixes
 
 
-less is more
 
-wifi is crap
 
-yes I said it, it's all about convenience. Ask Mike in IT, does he connect his mission critical servers on wifi no.
 
-Interference, microwave ovens, ....
+
+
+# Know your enemy (you can't manage what you can't measure).
+
+
+
+# wifi needs wires
+
+
+# less is more
+
+# wifi is crap
+
+yes I said it, it's all about convenience. Ask Mike in IT, does he connect his mission critical servers on wifi no. Interference, microwave ovens, ....
 
 
