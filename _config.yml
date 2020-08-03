@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 title: How to fix your wifi
 description: Help people understand how to build a better network at home
+logo: /images/wifi.png
