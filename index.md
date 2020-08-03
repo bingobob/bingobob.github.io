@@ -6,16 +6,16 @@ So my Sister asked me, why's the wifi slow. Few days later the nieghbours asked 
 
 I generally witter on in some level of geek speak
 
-# It's not about the wifi !
+## It's not about the wifi !
 
-# It's all about the wifi !
+## It's all about the wifi !
 
-# Contention
+## Contention
 
-# It's getting hot in here
+## It's getting hot in here
 
 
-# Kit List
+## Kit List
 
 Affiliate Amazon links might help me recoup some cost, so I hope ok.
 
@@ -59,55 +59,55 @@ nah, this article is different.
 
 
 
-# Channel Swim
+## Channel Swim
 
-# Power
+## Power
 
-# Raspberry What
+## Raspberry What
 
-# Rolls royce solution
+## Rolls royce solution
 
-# Affiliate links
-
-
-
-# Just turn it off and on again already
-
-# You're not in control of everything, spiders web,
-
-# Foundations
-
-# The simple things.... (try these first). Common sense not that common.
-
-
-# Why are extenders bad?
+## Affiliate links
 
 
 
+## Just turn it off and on again already
+
+## You're not in control of everything, spiders web,
+
+## Foundations
+
+## The simple things.... (try these first). Common sense not that common.
 
 
-
-# Am I wrong?
-
-
-# Quick fixes
+## Why are extenders bad?
 
 
 
 
 
 
-
-# Know your enemy (you can't manage what you can't measure).
-
+## Am I wrong?
 
 
-# wifi needs wires
+## Quick fixes
 
 
-# less is more
 
-# wifi is crap
+
+
+
+
+## Know your enemy (you can't manage what you can't measure).
+
+
+
+## wifi needs wires
+
+
+## less is more
+
+## wifi is crap
 
 yes I said it, it's all about convenience. Ask Mike in IT, does he connect his mission critical servers on wifi no. Interference, microwave ovens, ....
 
