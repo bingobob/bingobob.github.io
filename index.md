@@ -15,6 +15,28 @@ I generally witter on in some level of geek speak
 # It's getting hot in here
 
 
+# Kit List
+
+Affiliate Amazon links might help me recoup some cost, so I hope ok.
+
+|Name|Link|
+|:-|:-|
+|Ubiquiti EdgeRouter X Router|[https://amzn.to/2CvbadB](https://amzn.to/2CvbadB)|
+|Ubiquiti UAP-AC-LR Access Point|[https://amzn.to/2D1RWMd](https://amzn.to/2D1RWMd)|
+|Netgear 5-Port Gigabit PoE Switch|[https://amzn.to/3fRsqYU](https://amzn.to/3fRsqYU)|
+|Raspberry Pi 4 Model B 4GB|[https://amzn.to/2ZWAthD](https://amzn.to/2ZWAthD)|
+|Acrylic Case for Raspberry Pi 4|[https://amzn.to/32Sz2lQ](https://amzn.to/32Sz2lQ)|
+|Grandstream SIP-ATA HandyTone HT801|[https://amzn.to/3fTW0wS](https://amzn.to/3fTW0wS)|
+|PoE Splitter 5V Micro USB|[https://amzn.to/30C62fD](https://amzn.to/30C62fD)|
+|RJ11 Plug to BT Socket (not in photo)|[https://amzn.to/39lkVGW](https://amzn.to/39lkVGW)|
+|BT Duet 210 Telephone (not in photo)|[https://amzn.to/3eMxGvu](https://amzn.to/3eMxGvu)|
+|Velcro!|[https://amzn.to/32N3w8P](https://amzn.to/32N3w8P)|
+
+Hope useful. Really enjoyed building it. I also ran about 300 metres of CAT6 through the building as I plan to introduce more access points and maybe some POE cameras later on.
+
+
+
+
 ISP...
 
 modem/router/switch/AP
