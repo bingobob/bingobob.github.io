@@ -31,11 +31,6 @@ askhjdklasjdklasjh klas lkas dasl
 
 
 
-{% include_relative content.md %}
-
-
-
-
 
 
     		</div><!-- /.blurb -->
@@ -43,7 +38,7 @@ askhjdklasjdklasjh klas lkas dasl
 		<footer>
     		<ul>
         		<li><a href="mailto:rupertf@gmail.com">email</a></li>
-        		<li><a href="https://github.com/bingobo">github.com/bingobob</a></li>
+        		<li><a href="https://github.com/bingobob">github.com/bingobob</a></li>
 			</ul>
 		</footer>
 	</body>
