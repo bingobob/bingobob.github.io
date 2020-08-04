@@ -26,10 +26,13 @@ You can do many things to improve your network and connection to the Internet bu
 ## She's lost control again
 
 
+
 ## wifi
 > It's not about the wifi/ It's all about the wifi
 
 Wifi is a convenient technology. It's on your laptop, it's on your phone, it's on your tablet and it's on your TV. It's everywhere. It might be convenient but it's not reliable. There are many reasons why wifi is inferior to a wired connection, but the blindingly obvious reason wifi is so prevalent is the convenience.
+
+### 5.0 Ghz versus 2.4 Ghz
 
 ## Ethernet
 
