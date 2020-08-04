@@ -47,17 +47,18 @@ Just be aware that after you've considered all this and spent the cash, toiled w
 ### Speed
 > You can't manage what you can't measure/ Full speed ahead Captain/ Baseline/ Measuerments/ Know thy enemy
 
-This is Uk focussed but I believe it'll apply in other areas as well. When you connect to the Internet from a residential property you do it via yuor ISP (Internet Service Provider) and there are many options. Some people have many options and some people have very few (possibly one).
+This is UK focussed but I believe it'll apply in other areas as well. When you connect to the Internet from a residential property you do it via yuor ISP (Internet Service Provider) and there are many options. Some people have many options and some people have very few (possibly one).
 
-#### Taking my house as an example
+#### Taking my house as an example/ High fibre diet
 
-It's important to understand the tech.
+The tech. I have this... M350 *Fibre Broadband* from Virgin Media. So here's the thing I'd like to rant about or at least to explain here. M350 *Fibre* Broadband is not delivered on *fibre*. I'll repeat that, *Fibre* Broadband from Virgin *is not delivered to your house on fibre*. To be fair to Virgin, they're only doing what everyone else does but if you find it confusing, I'm not surprised. This sloppy marketing language has been going on for years and I'm surprised (actually not suprised) that OFCOM haven't had more of an interest.
+
 
 #### DSL
-DSL stands for Digital Subscriber Line. It's delivered over existing telephone connections and is therefore widely available. DSL connections are distance sensitive. The longer the cable is from your house to the telephone exchange (or street cabinet) the more the signal will degrade and the slower the speed will be.
+DSL stands for Digital Subscriber Line. It's delivered over existing telephone connections and is therefore widely available. DSL connections are distance sensitive. The longer the cable is from your house to the telephone exchange (or street cabinet) the more the signal will degrade and the slower the speed will be. That's why you often hear about people out in the middle of the countryside having poor Internet speeds. Often because they are on a DSL connection a long way from the telephone exchange and it can only support a lower speed.
 
 #### FTTN (Fibre to the node)
-over coaxial copper cable
+Over coaxial copper cable delivered over coaxial connections
 
 
 
@@ -191,6 +192,6 @@ https://www.ispreview.co.uk/index.php/2013/07/tips-for-how-to-keep-your-wireless
 
 https://www.attinternetservice.com/resources/what-is-dsl-internet/#:~:text=DSL%20stands%20for%20Digital%20Subscriber,Internet%20while%20making%20phone%20calls.
 
-
 https://en.wikipedia.org/wiki/Fiber_to_the_x#Fiber_to_the_node
 
+https://www.ispreview.co.uk/index.php/2016/03/virgin-media-adverts-still-cant-tell-copper-coax-fibre-optic.html
