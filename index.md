@@ -1,14 +1,28 @@
-<h1>WIFI, wifi, WiFi matters</h1>
-<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+# WIFI, wifi, WiFi matters
 
-So my Sister asked me, why's the wifi slow. Few days later the nieghbours asked me why sometimes when they're both on a zoom call things are a bit rubbish. My boss asked me what's some good wifi kit to put in his new holiday home. Then my cycling mad mate asked me about getting wifi in his shed (I know). I decided to write down some tips, the good, the bad and the ugly!
+I decided to write about home networks. So my Sister asked me, why's the wifi slow. Few days later the nieghbours asked me why sometimes when they're both on a zoom call things are a bit rubbish. My boss asked me what's some good wifi kit to put in his new holiday home. Then my cycling mad mate asked me about getting wifi in his shed (I know). Why's iPlayer stuttttering. Why can't my phone connect to the interweb. You ge the idea. I decided to write down some tips, and then ask others to peer review and then edit and update!
+
+## wifi (It's not about the wifi/ It's all about the wifi)
+
+Wifi is a convenient technology. It's on your laptop, it's on your phone, it's on your tablet and it's on your TV. It's everywhere. It might be convenient but it's not reliable. There are many reasons why wifi is inferior to a wired connection, but the obvious reason it's so prevalent is the convenience.
+
+Ethernet
+
+### Why ethernet wins
+
+- Faster (in some cases a lot faster)
+- Consistent speed
+- Secure
+- Low latency (the delay when signals travel back and forth)
 
 
-I generally witter on in some level of geek speak
+### Why wifi wins
 
-## It's not about the wifi !
+- Convenience, ubiquity and ease of installation and a cooler logo?
 
-## It's all about the wifi !
+
+
+
 
 ## Contention
 
@@ -114,4 +128,11 @@ nah, this article is different.
 
 yes I said it, it's all about convenience. Ask Mike in IT, does he connect his mission critical servers on wifi no. Interference, microwave ovens, ....
 
+
+References
+
+https://ubidots.com/blog/wi-fi-vs-ethernet-which-connection-to-use/
+
+
+https://www.howtogeek.com/217463/wi-fi-vs.-ethernet-how-much-better-is-a-wired-connection/#:~:text=In%20summary%2C%20with%20Wi%2DFi,connection%2C%20there's%20much%20less%20latency.
 
