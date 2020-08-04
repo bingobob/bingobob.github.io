@@ -2,12 +2,21 @@
 
 I decided to write about home networks. So my Sister asked me, why's the wifi slow. Few days later the nieghbours asked me why sometimes when they're both on a zoom call things are a bit rubbish. My boss asked me what's some good wifi kit to put in his new holiday home. Then my cycling mad mate asked me about getting wifi in his shed (I know). Why's iPlayer stuttttering. Why can't my phone connect to the interweb. You ge the idea. I decided to write down some tips, and then ask others to peer review and then edit and update!
 
+I'm trying to aim this at home users and for it to be a practical and pragmatic guide to help. I'm not a trained network engineer so please forgive me (or correct me) if I'm slipping up. Happy and encourage opinions.
+
+## Summary
+
+You can do many things to improve your network and connection to the Internet but ultimately you're not in control.
+
+## She's lost control again
+
+
 ## wifi
 > It's not about the wifi/ It's all about the wifi
 
-Wifi is a convenient technology. It's on your laptop, it's on your phone, it's on your tablet and it's on your TV. It's everywhere. It might be convenient but it's not reliable. There are many reasons why wifi is inferior to a wired connection, but the obvious reason it's so prevalent is the convenience.
+Wifi is a convenient technology. It's on your laptop, it's on your phone, it's on your tablet and it's on your TV. It's everywhere. It might be convenient but it's not reliable. There are many reasons why wifi is inferior to a wired connection, but the blindingly obvious reason wifi is so prevalent is the convenience.
 
-Ethernet
+## Ethernet
 
 ### Why ethernet wins
 
@@ -23,17 +32,47 @@ Ethernet
 
 
 
+### Contention
+
+### It's getting hot in here
+
+Heat; heat is the enemy of computers. Yes your router is a computer. If you've noticed that a lot of laptop computers have fans in the them, that's why. As the system load increases the processor temperature increases and this can reduce performance. It's best practice to keep your networking equipment cool, common sense approach.
 
 
-## Contention
+### No one will thank you
 
-## It's getting hot in here
+Just be aware that after you've considered all this and spent the cash, toiled with ethernet cable and built the perfect home network nobody will thank you. They'll still moan it's slow. Maybe point them to this article so that they might understand things a bit better.
 
-# You can't manage what you can't measure
 
-## British ISPs
+### Speed
+> You can't manage what you can't measure/ Full speed ahead Captain/ Baseline/ Measuerments/ Know thy enemy
 
-## Kit List
+This is Uk focussed but I believe it'll apply in other areas as well. When you connect to the Internet from a residential property you do it via yuor ISP (Internet Service Provider) and there are many options. Some people have many options and some people have very few (possibly one).
+
+#### Taking my house as an example
+
+#### DSL
+DSL stands for Digital Subscriber Line. It's delivered over existing telephone connections and therefore is widely available. DSL connections are distance sensitive. The longer the cable is from your house to the telephone exchange the more the signal will degrade and the slower the speed will be.
+
+
+
+
+
+
+
+
+
+### Marketing
+
+
+fast.com
+speedtest.net
+speedtest-cli
+
+
+### British ISPs
+
+### Kit List
 
 Affiliate Amazon links might help me recoup some cost, so I hope ok.
 
@@ -77,55 +116,60 @@ nah, this article is different.
 
 
 
-## Channel Swim
-
-## Power
-
-## Raspberry What
-
-## Rolls royce solution
-
-## Affiliate links
+## POTS
+> plain old telephony service
 
 
 
-## Just turn it off and on again already
+### Channel Swim
 
-## You're not in control of everything, spiders web,
+### Power
 
-## Foundations
+### Raspberry What
 
-## The simple things.... (try these first). Common sense not that common.
+### Rolls royce solution
 
-
-## Why are extenders bad?
-
+### Affiliate links
 
 
 
+### Just turn it off and on again already
+
+### You're not in control of everything, spiders web,
+
+### Foundations
+
+### The simple things.... (try these first). Common sense not that common.
 
 
-## Am I wrong?
-
-
-## Quick fixes
+### Why are extenders bad?
 
 
 
 
 
 
-
-## Know your enemy (you can't manage what you can't measure).
-
+### Am I wrong?
 
 
-## wifi needs wires
+### Quick fixes
 
 
-## less is more
 
-## wifi is crap
+
+
+
+
+### Know your enemy (you can't manage what you can't measure).
+
+
+
+### wifi needs wires
+
+
+### less is more
+
+### wifi is crap
 
 yes I said it, it's all about convenience. Ask Mike in IT, does he connect his mission critical servers on wifi no. Interference, microwave ovens, ....
 
@@ -136,4 +180,9 @@ https://ubidots.com/blog/wi-fi-vs-ethernet-which-connection-to-use/
 
 
 https://www.howtogeek.com/217463/wi-fi-vs.-ethernet-how-much-better-is-a-wired-connection/#:~:text=In%20summary%2C%20with%20Wi%2DFi,connection%2C%20there's%20much%20less%20latency.
+
+https://www.ispreview.co.uk/index.php/2013/07/tips-for-how-to-keep-your-wireless-broadband-isp-router-cool.html
+
+https://www.attinternetservice.com/resources/what-is-dsl-internet/#:~:text=DSL%20stands%20for%20Digital%20Subscriber,Internet%20while%20making%20phone%20calls.
+
 
