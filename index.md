@@ -51,8 +51,14 @@ This is Uk focussed but I believe it'll apply in other areas as well. When you c
 
 #### Taking my house as an example
 
+It's important to understand the tech.
+
 #### DSL
-DSL stands for Digital Subscriber Line. It's delivered over existing telephone connections and therefore is widely available. DSL connections are distance sensitive. The longer the cable is from your house to the telephone exchange the more the signal will degrade and the slower the speed will be.
+DSL stands for Digital Subscriber Line. It's delivered over existing telephone connections and is therefore widely available. DSL connections are distance sensitive. The longer the cable is from your house to the telephone exchange (or street cabinet) the more the signal will degrade and the slower the speed will be.
+
+#### FTTN (Fibre to the node)
+over coaxial copper cable
+
 
 
 
@@ -185,4 +191,6 @@ https://www.ispreview.co.uk/index.php/2013/07/tips-for-how-to-keep-your-wireless
 
 https://www.attinternetservice.com/resources/what-is-dsl-internet/#:~:text=DSL%20stands%20for%20Digital%20Subscriber,Internet%20while%20making%20phone%20calls.
 
+
+https://en.wikipedia.org/wiki/Fiber_to_the_x#Fiber_to_the_node
 
