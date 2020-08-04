@@ -8,6 +8,21 @@ I'm trying to aim this at home users and for it to be a practical and pragmatic 
 
 You can do many things to improve your network and connection to the Internet but ultimately you're not in control.
 
+## Case studies
+
+### The brother in law
+
+### The other brother in law
+
+### The cyclist
+
+### The neighbour
+
+### The mother
+
+
+#### One size fits all
+
 ## She's lost control again
 
 
