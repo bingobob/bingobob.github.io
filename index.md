@@ -2,7 +2,8 @@
 
 I decided to write about home networks. So my Sister asked me, why's the wifi slow. Few days later the nieghbours asked me why sometimes when they're both on a zoom call things are a bit rubbish. My boss asked me what's some good wifi kit to put in his new holiday home. Then my cycling mad mate asked me about getting wifi in his shed (I know). Why's iPlayer stuttttering. Why can't my phone connect to the interweb. You ge the idea. I decided to write down some tips, and then ask others to peer review and then edit and update!
 
-## wifi (It's not about the wifi/ It's all about the wifi)
+## wifi
+> It's not about the wifi/ It's all about the wifi
 
 Wifi is a convenient technology. It's on your laptop, it's on your phone, it's on your tablet and it's on your TV. It's everywhere. It might be convenient but it's not reliable. There are many reasons why wifi is inferior to a wired connection, but the obvious reason it's so prevalent is the convenience.
 
