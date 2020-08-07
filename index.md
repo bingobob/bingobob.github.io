@@ -1,8 +1,13 @@
 # WIFI, wifi, WiFi matters
 
-I decided to write about home networks. So my Sister asked me, why's the wifi slow. Few days later the nieghbours asked me why sometimes when they're both on a zoom call things are a bit rubbish. My boss asked me what's some good wifi kit to put in his new holiday home. Then my cycling mad mate asked me about getting wifi in his shed (I know). Why's iPlayer stuttttering. Why can't my phone connect to the interweb. You ge the idea. I decided to write down some tips, and then ask others to peer review and then edit and update!
+I decided to write about home networks and Internet connections. So my Sister asked me, why's the wifi slow. Few days later some neighbours asked me why sometimes when they're both on a zoom call things are a bit rubbish. My boss asked me what's some good wifi kit to put in his new holiday home. Then my cycling mad mate asked me about getting wifi in his shed (I know). Why's iPlayer stuttttering. Why can't my phone connect to the interweb. You get the idea. I decided to write down some tips, and then ask others to peer review and then edit and update. Spoiler alert - there's no silver bullet you get out what you put in!
 
+## Audience
 I'm trying to aim this at home users and for it to be a practical and pragmatic guide to help. I'm not a trained network engineer so please forgive me (or correct me) if I'm slipping up. Happy and encourage opinions.
+
+## The analogy
+
+
 
 ## Summary
 
